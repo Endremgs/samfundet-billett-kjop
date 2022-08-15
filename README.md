@@ -1,4 +1,4 @@
-##Tampermonkey script for purchasing tickets to events at samfundet.no
+# Tampermonkey script for purchasing tickets to events at samfundet.no
 
 Fills out email and card credentials to speed up the purchasing process.
 
@@ -7,7 +7,7 @@ Currently missing
 - Auto click purchase btn (due to missing ticket amount)
 
 
-#How to use
+## How to use
 
 - Install the [tampermonkey plugin](https://www.tampermonkey.net/)
 
@@ -19,3 +19,6 @@ Fill out the following variables:
 - exp_month
 - exp_year
 - cvc
+
+
+Inspired by https://github.com/FluidSense/Uka-tampermonkey-attender
